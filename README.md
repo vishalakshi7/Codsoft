@@ -435,9 +435,7 @@ Python | SQL | Java | Pandas | NumPy | Matplotlib | Seaborn | Data Analysis | Da
 
 ---
 
-
-
-
+#Conclusion
 
 This internship project provided hands-on experience in the complete data analysis workflow, starting from raw data cleaning and preparation to exploratory analysis, visualization, and customer-level business insights.
 
