@@ -1,4 +1,4 @@
-# CodeSoft Data Science Internship
+# CodeSoft Data Analytics Internship
 
 This repository contains the tasks completed during my CodeSoft Data Science Internship using Python, Pandas, NumPy, Matplotlib, Seaborn, and Exploratory Data Analysis techniques.
 
